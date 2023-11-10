@@ -49,5 +49,3 @@ if response.status_code == 200:
 else:
     print(f"Failed to retrieve auction data: {response.status_code}")
     print(response.text)  # This will print the error message if any
-
-# Note: Handle exceptions and potential errors appropriately for production use.
