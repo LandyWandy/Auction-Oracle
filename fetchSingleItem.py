@@ -28,7 +28,7 @@ headers = {
 }
 
 # Item ID for the specific item you want (e.g., 118427)
-item_id = "22274"
+item_id = "763"
 
 # Construct the item data endpoint URL
 item_url = f"https://us.api.blizzard.com/data/wow/item/{item_id}?namespace=static-us&locale=en_US"
